@@ -19,7 +19,7 @@ const About = () => {
         Charts, Auth0, serverless functions, nanoID, Figma, Canva..."
             />
             <AboutParagraph
-              header="Carrier"
+              header="Career"
               text="In my previous work, as a soldier, I felt like, I'm able to do something harder and useful. I tried to start programming and I love it. After one year of learning, I decided to leave my previous work and give 100 % to programming and
             education too. I have fun there with some courses, web projects, games and
             images designs. In the future, I want to learn frontend frameworks like: Vue, Angular,Next.js and many more, if I will need it to learn. From backend Node.js."
